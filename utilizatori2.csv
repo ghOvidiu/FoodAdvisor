@@ -1,0 +1,139 @@
+userID,Ucuisine,Upayment,smoker,drink_level,dress_preference,budget
+U1001,American,cash,FALSE,abstemious,informal,medium
+U1002,Mexican,cash,FALSE,abstemious,informal,low
+U1003,Mexican,cash,FALSE,social drinker,formal,low
+U1004,Bakery;Breakfast-Brunch;Japanese;Contemporary;Mexican;Bagels;Cafe-Coffee_Shop;Continental-European;Cafeteria,cash;bank_debit_cards,FALSE,abstemious,informal,medium
+U1005,American,cash,FALSE,abstemious,no preference,medium
+U1006,Mexican,cash,TRUE,social drinker,no preference,medium
+U1007,Family,cash,FALSE,casual drinker,informal,low
+U1008,Cafe-Coffee_Shop;Mexican;Juice;Hawaiian;Hot_Dogs;Latin_American;Korean;American;Cafeteria;Italian,cash,FALSE,social drinker,formal,low
+U1009,Diner;Fast_Food;Family;Cafe-Coffee_Shop;Deli-Sandwiches;Cafeteria;Mexican,cash,FALSE,abstemious,formal,medium
+U1010,Mexican,cash,FALSE,social drinker,no preference,medium
+U1011,Mexican,cash,FALSE,abstemious,no preference,medium
+U1012,Latin_American,cash;bank_debit_cards,FALSE,casual drinker,formal,medium
+U1013,Japanese,MasterCard-Eurocard;cash,FALSE,abstemious,no preference,medium
+U1014,Japanese;Fast_Food,cash,FALSE,abstemious,?,medium
+U1015,Mexican,cash,TRUE,social drinker,informal,medium
+U1016,Cafe-Coffee_Shop;Contemporary;Regional;Fusion;Japanese;Portuguese;American;Indian-Pakistani;Eastern_European;Lebanese;Moroccan;Barbecue;Polynesian;Polish,cash,FALSE,casual drinker,informal,medium
+U1017,Chinese,cash;VISA,FALSE,casual drinker,formal,medium
+U1018,Mexican,cash,TRUE,casual drinker,formal,low
+U1019,Family,cash,FALSE,casual drinker,no preference,medium
+U1020,Mexican,cash;bank_debit_cards,FALSE,abstemious,no preference,medium
+U1021,Pizzeria;Regional;Chinese;Burgers,cash,FALSE,social drinker,no preference,medium
+U1022,Mexican,cash,FALSE,casual drinker,formal,medium
+U1023,Mexican,cash,FALSE,casual drinker,informal,low
+U1026,Mexican,cash;bank_debit_cards,FALSE,abstemious,formal,medium
+U1027,Family,cash,TRUE,social drinker,no preference,low
+U1028,Mexican,cash,FALSE,abstemious,no preference,medium
+U1029,Mexican,cash,TRUE,casual drinker,formal,low
+U1030,Mexican,cash,FALSE,casual drinker,formal,medium
+U1031,Mexican,cash;American_Express,FALSE,abstemious,informal,medium
+U1032,Mexican,cash,FALSE,abstemious,formal,medium
+U1033,Mexican,cash,FALSE,social drinker,no preference,low
+U1034,Mexican,cash,FALSE,casual drinker,informal,medium
+U1035,Family,cash;VISA,TRUE,casual drinker,no preference,medium
+U1036,Mexican,cash,FALSE,social drinker,informal,medium
+U1037,Mexican,cash,FALSE,social drinker,no preference,low
+U1038,Mexican,cash,TRUE,social drinker,no preference,low
+U1039,Regional,cash,FALSE,social drinker,no preference,medium
+U1040,Pizzeria,cash,FALSE,abstemious,no preference,medium
+U1041,Contemporary,bank_debit_cards;cash;American_Express;VISA,FALSE,abstemious,no preference,medium
+U1042,Mexican,bank_debit_cards,FALSE,abstemious,no preference,high
+U1043,Latin_American,cash,FALSE,abstemious,no preference,medium
+U1044,Mexican,VISA;bank_debit_cards;cash;MasterCard-Eurocard,TRUE,social drinker,informal,medium
+U1045,Middle_Eastern;Mexican;Mongolian;Moroccan,cash,FALSE,casual drinker,elegant,high
+U1046,Bar,cash,FALSE,social drinker,no preference,medium
+U1047,American,cash,FALSE,abstemious,no preference,medium
+U1048,Mexican,cash,TRUE,casual drinker,no preference,medium
+U1049,Mexican,cash,FALSE,casual drinker,informal,?
+U1050,Mexican,cash,FALSE,social drinker,no preference,medium
+U1051,Mexican,VISA;cash,FALSE,casual drinker,no preference,medium
+U1052,Bakery,cash,TRUE,social drinker,no preference,low
+U1053,Mexican,cash,FALSE,casual drinker,informal,low
+U1054,Mexican,cash,FALSE,social drinker,formal,medium
+U1055,Breakfast-Brunch,cash,FALSE,abstemious,no preference,medium
+U1056,Mexican,cash,FALSE,social drinker,informal,medium
+U1057,American,cash;VISA,TRUE,casual drinker,formal,medium
+U1058,Cuban,cash,FALSE,abstemious,formal,low
+U1059,Mexican,cash,FALSE,abstemious,formal,medium
+U1060,Burgers;Cafeteria;Pizzeria;Juice;American;Tex-Mex;Spanish;Mexican;Fast_Food;Cafe-Coffee_Shop;Soup;Hot_Dogs;Italian,cash,FALSE,casual drinker,formal,medium
+U1061,Mexican,cash;bank_debit_cards,FALSE,social drinker,no preference,medium
+U1062,Mexican,VISA;cash,FALSE,casual drinker,informal,medium
+U1063,Mexican,cash,FALSE,casual drinker,formal,medium
+U1064,Mexican,cash,FALSE,casual drinker,formal,medium
+U1065,Mexican,cash,FALSE,abstemious,formal,medium
+U1066,Mexican,cash;bank_debit_cards,FALSE,abstemious,informal,low
+U1067,Mexican,cash,FALSE,abstemious,no preference,medium
+U1068,Mexican,cash,FALSE,casual drinker,informal,low
+U1069,Mexican,MasterCard-Eurocard;cash,FALSE,social drinker,no preference,medium
+U1070,Mexican,cash,FALSE,casual drinker,informal,low
+U1071,Mexican,cash,FALSE,abstemious,formal,high
+U1072,Mexican,bank_debit_cards;cash,FALSE,casual drinker,no preference,medium
+U1073,American,cash,FALSE,abstemious,informal,medium
+U1074,Sushi,bank_debit_cards;cash,TRUE,casual drinker,no preference,medium
+U1075,Mexican,cash,FALSE,casual drinker,informal,medium
+U1076,Mexican,VISA;cash;bank_debit_cards,FALSE,social drinker,elegant,medium
+U1077,Mexican,VISA;cash;bank_debit_cards,FALSE,social drinker,elegant,medium
+U1078,Mexican,VISA;bank_debit_cards;cash,TRUE,social drinker,informal,medium
+U1079,Mexican,cash,FALSE,abstemious,formal,medium
+U1080,Mexican,cash,TRUE,social drinker,formal,low
+U1081,Mexican,cash,FALSE,casual drinker,informal,low
+U1082,Mexican,cash,TRUE,abstemious,informal,medium
+U1083,Mexican,cash,FALSE,abstemious,?,?
+U1084,Mexican,cash,TRUE,casual drinker,formal,medium
+U1085,Mexican,cash,FALSE,abstemious,no preference,?
+U1086,Italian,VISA;bank_debit_cards;cash,FALSE,social drinker,no preference,medium
+U1087,Chinese,cash,FALSE,abstemious,no preference,medium
+U1089,Mexican,cash,TRUE,casual drinker,informal,low
+U1090,Tex-Mex,cash,FALSE,social drinker,no preference,medium
+U1091,American;Mexican,cash,FALSE,casual drinker,no preference,low
+U1092,Game,cash,FALSE,abstemious,formal,medium
+U1093,Japanese,American_Express;VISA,TRUE,casual drinker,no preference,medium
+U1094,Mexican,cash,FALSE,abstemious,informal,medium
+U1095,Italian,cash,FALSE,abstemious,formal,medium
+U1096,Mexican,cash,FALSE,abstemious,formal,medium
+U1097,Mexican,cash,FALSE,abstemious,formal,medium
+U1098,Mexican,cash,FALSE,social drinker,formal,medium
+U1099,Mexican,cash;VISA,TRUE,social drinker,informal,high
+U1100,Mexican,cash,FALSE,casual drinker,formal,medium
+U1101,Chinese;Italian;Doughnuts;Afghan;Mexican;Burgers;Latin_American;Contemporary;Cafe-Coffee_Shop;Family;Cafeteria;Bar;Australian;Hot_Dogs;Diner,cash,FALSE,casual drinker,no preference,low
+U1102,Pizzeria,cash,FALSE,social drinker,no preference,low
+U1103,Mexican,cash;bank_debit_cards,FALSE,abstemious,formal,medium
+U1104,Italian,VISA;cash,TRUE,social drinker,no preference,medium
+U1105,Cafeteria,cash,FALSE,social drinker,formal,medium
+U1106,Barbecue,bank_debit_cards;cash,FALSE,casual drinker,informal,medium
+U1107,Mexican,bank_debit_cards;cash,FALSE,abstemious,no preference,high
+U1108,Cafe-Coffee_Shop;Sushi;Latin_American;Deli-Sandwiches;Mexican;Hot_Dogs;American;Fast_Food;Burgers;Asian;Pizzeria;Chinese;Dessert-Ice_Cream;Cafeteria;Japanese;Game;Family;Seafood,VISA;cash;MasterCard-Eurocard,FALSE,abstemious,informal,medium
+U1109,Mexican,cash,FALSE,abstemious,formal,low
+U1110,Mexican,cash,FALSE,abstemious,no preference,medium
+U1111,Mexican,cash,TRUE,casual drinker,formal,medium
+U1112,Mexican,cash,TRUE,casual drinker,formal,medium
+U1113,Burgers,VISA;cash,FALSE,casual drinker,formal,medium
+U1114,Mexican,cash,FALSE,abstemious,no preference,medium
+U1115,Regional,cash,TRUE,social drinker,elegant,low
+U1116,Mexican,cash;bank_debit_cards;VISA,FALSE,social drinker,formal,medium
+U1117,Turkish,bank_debit_cards;cash,FALSE,abstemious,no preference,medium
+U1118,Pizzeria,cash,TRUE,casual drinker,informal,medium
+U1119,Mexican,cash,FALSE,abstemious,formal,medium
+U1120,Mexican,cash,FALSE,abstemious,informal,low
+U1121,Mexican,cash;bank_debit_cards,FALSE,social drinker,no preference,medium
+U1123,Mexican,cash,FALSE,abstemious,informal,medium
+U1124,Mexican,cash,FALSE,casual drinker,informal,low
+U1125,Mexican,cash,FALSE,casual drinker,formal,low
+U1126,Mexican,cash,FALSE,casual drinker,formal,low
+U1127,Mexican,cash,FALSE,abstemious,no preference,low
+U1128,Cafeteria;Hot_Dogs;Pizzeria;Mexican,cash,FALSE,casual drinker,no preference,low
+U1129,Mexican,cash,FALSE,casual drinker,no preference,low
+U1131,Mexican,cash,TRUE,social drinker,no preference,medium
+U1132,Mexican,cash,FALSE,casual drinker,informal,?
+U1133,Mexican,bank_debit_cards;cash,FALSE,abstemious,no preference,medium
+U1134,Mexican,cash,FALSE,casual drinker,no preference,medium
+U1135,Organic-Healthy;Steaks;Middle_Eastern;Mediterranean;British;Austrian;Israeli;Doughnuts;Pizzeria;Seafood;Fast_Food;Moroccan;Hot_Dogs;Russian-Ukrainian;Malaysian;Burgers;Fusion;Korean;Japanese;Vegetarian;Turkish;Peruvian;Juice;Tapas;Eclectic;African;Basque;Canadian;Afghan;Diner;Irish;Sushi;Polynesian;Bagels;Tex-Mex;Cuban;Southwestern;Cafe-Coffee_Shop;Continental-European;Family;Indian-Pakistani;Tea_House;International;Pacific_Northwest;Australian;German;Regional;Spanish;Persian;Ethiopian;Romanian;Cambodian;Pacific_Rim;Tunisian;Filipino;Dim_Sum;Breakfast-Brunch;Contemporary;Greek;Thai;Swiss;Bar;Soup;American;Mongolian;Cajun-Creole;Armenian;Indigenous;Bar_Pub_Brewery;Hawaiian;Cafeteria;Lebanese;Chinese;Portuguese;Caribbean;Indonesian;Hungarian;Bakery;Dutch-Belgian;Deli-Sandwiches;Kosher;Fine_Dining;Jamaican;Tibetan;Latin_American;Southeast_Asian;Eastern_European;Mexican;Burmese;California;Game;Italian;Scandinavian;Chilean;Polish;North_African;Asian;Vietnamese;Barbecue;French;Brazilian;Southern;Dessert-Ice_Cream,cash,FALSE,casual drinker,informal,low
+U1136,Mexican,cash,TRUE,social drinker,no preference,low
+U1137,Mexican,cash,FALSE,social drinker,formal,low
+U1138,Pizzeria,cash,FALSE,social drinker,formal,medium
+U1024,Afghan,,?,abstemious,?,?
+U1025,Mexican,,FALSE,social drinker,no preference,medium
+U1088,Mexican,,FALSE,social drinker,informal,medium
+U1122,Afghan,,?,abstemious,?,?
+U1130,Mexican,,?,abstemious,?,?
